@@ -1,7 +1,7 @@
 import colors from "ansi-colors";
 import {dateTimeFormattedUtils} from "./utils/dateTimeFormatted.utils";
 
-class LogMessageCore {
+export class LogMessageCore {
 
     /**
      *
